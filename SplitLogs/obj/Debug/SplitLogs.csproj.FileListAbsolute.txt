@@ -1,0 +1,7 @@
+F:\SteamLibrary\steamapps\common\Dinkum\BepInEx\plugins\SplitLogs.dll
+F:\SteamLibrary\steamapps\common\Dinkum\BepInEx\source\SplitLogs\RW 1.4 Template1\obj\Debug\SplitLogs.csproj.AssemblyReference.cache
+F:\SteamLibrary\steamapps\common\Dinkum\BepInEx\source\SplitLogs\RW 1.4 Template1\obj\Debug\SplitLogs.csproj.CoreCompileInputs.cache
+F:\SteamLibrary\steamapps\common\Dinkum\BepInEx\source\SplitLogs\RW 1.4 Template1\obj\Debug\SplitLogs.dll
+F:\SteamLibrary\steamapps\common\Dinkum\BepInEx\source\SplitLogs\SplitLogs\obj\Debug\SplitLogs.csproj.AssemblyReference.cache
+F:\SteamLibrary\steamapps\common\Dinkum\BepInEx\source\SplitLogs\SplitLogs\obj\Debug\SplitLogs.csproj.CoreCompileInputs.cache
+F:\SteamLibrary\steamapps\common\Dinkum\BepInEx\source\SplitLogs\SplitLogs\obj\Debug\SplitLogs.dll
