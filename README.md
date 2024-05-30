@@ -1,4 +1,4 @@
-Since Twice [Wood Logs - Table Saw](https://www.nexusmods.com/dinkum/mods/48?) is broken and unusable as of posting, I figured I'd go ahead and remake it for the current version while adding the tin ingot splitting option as that also made sense to me personally.
+Since [Twice Wood Logs - Table Saw](https://www.nexusmods.com/dinkum/mods/48?) is broken and unusable as of posting, I figured I'd go ahead and remake it for the current version while adding the tin ingot splitting option as that also made sense to me personally.
 
 ### Installation
 Install following the standard instructions, found here: [Dinkum Wiki | Modding](https://dinkum.fandom.com/wiki/Modding)
